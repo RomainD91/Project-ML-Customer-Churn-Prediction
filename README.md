@@ -10,7 +10,7 @@ In the competitive telecom industry, retaining customers is crucial for maintain
 Develop a machine learning model to predict whether a customer will churn, enabling the company to implement targeted retention strategies.
 
 ## DATA
-1 CSV file (7043, 21): Telecom Customer Churn Data
+1 CSV file (7043, 21): Customer-Churn.csv
 
 ## TECHNIQUES AND LIBRARIES USED:
 - Data Acquisition: CSV import with **Pandas**
