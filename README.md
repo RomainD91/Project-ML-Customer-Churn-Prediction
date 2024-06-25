@@ -14,7 +14,7 @@ Develop a machine learning model to predict whether a customer will churn, enabl
 
 ## TECHNIQUES AND LIBRARIES USED:
 - Data Acquisition: CSV import with **Pandas**
-- Data Analytics: Exploratory data analysis (EDA) to understand patterns and relationships
+- Data Analytics: Exploratory data analysis to understand patterns and relationships
 - Data Visualization: **Seaborn, Matplotlib and Plotply**
 - Data Preprocessing: Cleaning, encoding, and scaling with **Scikit Learn**, **Numpy** and **Scipy**
 - Data Engineering: Feature creation, selection, and imputation
@@ -40,7 +40,7 @@ Develop a machine learning model to predict whether a customer will churn, enabl
 
 #### Modeling:
 
-- Model Selection: Chose several classification models suitable for the task (Handling Imbalance).
+- Model Selection: Choose several classification models suitable for the task (Handling Imbalance).
 - Initial Training: Baseline performance with default parameters.
 - Evaluation Metrics: Prioritized recall, also considered precision, F1-score, and accuracy.
 - Parameter Tuning: Grid search and random search.
@@ -55,10 +55,9 @@ Develop a machine learning model to predict whether a customer will churn, enabl
 - Saving the Model: Using joblib.
 - Wrapper Class: Facilitated easy deployment and integration.
 
-
 #### Model & Business Recommendations:
-- Insights and Strategies: Derived actionable insights and proposed strategies to mitigate churn.
-- Implementation Plan: Suggested a plan for targeted interventions.
+- Insights and Strategies: Derived actionable insights and proposed strategies to mitigate churn and improve model accuracy.
+- Implementation Plan: A plan for targeted interventions was suggested.
 
 
 ## DATA ANALYSIS
